@@ -25,4 +25,4 @@ if st.button('Generate Your Password') :
     password = g_p(length, dig, spe)
     st.write(f'Your generated password is: {password}')
 
-    st.write('Build With 🖤 by Saad Qureshi')
+    st.write('Build With 🖤 by Bushra Ali')
